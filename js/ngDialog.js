@@ -663,7 +663,8 @@
                             }
 
                             closeByDocumentHandler = function (event) {
-                                var isOverlay = options.closeByDocument ? $el(event.target).hasClass('ngdialog-overlay') : false;
+                                var t = $el(event.target);
+                                var isOverlay = options.closeByDocument ? (t.hasClass('ngdialog') || t.hasClass('ngdialog-overlay')) : false;
                                 var isCloseBtn = $el(event.target).hasClass('ngdialog-close');
 
                                 if (isOverlay || isCloseBtn) {
