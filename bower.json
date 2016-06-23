@@ -5,7 +5,6 @@
   "main": [
     "js/ngDialog.js",
     "css/ngDialog.css",
-    "css/ngDialog-theme-default.css"
   ],
   "keywords": [
     "angular.js",
