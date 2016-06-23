@@ -1,34 +1,9 @@
 {
-  "name": "ng-dialog",
-  "homepage": "https://github.com/likeastore/ngDialog",
+  "name": "lpm-ng-dialog",
   "description": "Modal dialogs and popups provider for Angular.js applications",
+  "version": "0.6.3",
   "main": [
-    "js/ngDialog.js",
-    "css/ngDialog.css",
-  ],
-  "keywords": [
-    "angular.js",
-    "modals",
-    "popups",
-    "dialog",
-    "ng",
-    "provider",
-    "factory",
-    "directive"
-  ],
-  "authors": [
-    "Dmitri Voronianski"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests",
-    "example",
-    "css/myth",
-    "Gruntfile.js"
+    "js/ngDialog.js"
   ],
   "dependencies": {
     "angular": "~1.5"
