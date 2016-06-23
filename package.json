@@ -38,10 +38,10 @@
     "web": "http://pixelhunter.me",
     "twitter": "voronianski"
   },
-  "bugs": "https://github.com/likeastore/ngDialog/issues",
+  "bugs": "https://github.com/bakulin330/ngDialog/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/likeastore/ngDialog"
+    "url": "https://github.com/bakulin330/ngDialog"
   },
   "readmeFilename": "README.md",
   "license": "MIT",
